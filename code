@@ -1,0 +1,7 @@
+zingle-backend/
+├─ .env
+├─ package.json
+├─ tsconfig.json
+├─ zingle-backend.ts
+├─ .gitignore
+└─ README.md
