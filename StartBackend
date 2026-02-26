@@ -1,0 +1,3 @@
+npm run dev
+# veya production için PM2
+pm2 start zingle-backend.ts --name "zingle-backend"
